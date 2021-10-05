@@ -1,0 +1,12 @@
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\bin\Debug\net5.0\OblFootballPlayer.deps.json
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\bin\Debug\net5.0\OblFootballPlayer.dll
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\bin\Debug\net5.0\ref\OblFootballPlayer.dll
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\bin\Debug\net5.0\OblFootballPlayer.pdb
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\OblFootballPlayer.csproj.AssemblyReference.cache
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\OblFootballPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\OblFootballPlayer.AssemblyInfoInputs.cache
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\OblFootballPlayer.AssemblyInfo.cs
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\OblFootballPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\OblFootballPlayer.dll
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\ref\OblFootballPlayer.dll
+C:\Users\Asbot\OneDrive\Dokumenter\Datamatik\3. semester\obl_opgave\OblFootballPlayer\obj\Debug\net5.0\OblFootballPlayer.pdb

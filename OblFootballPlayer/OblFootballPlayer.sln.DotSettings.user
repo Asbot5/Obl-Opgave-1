@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c31de0da_002D33c8_002D462a_002D8d24_002D1f310e2c2fbb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NameTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::6E304E04-7066-4574-8F8A-15DA4D4AB0BB::net5.0::OblFootballPlayer.Tests.FootballPlayerTests.NameTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::6E304E04-7066-4574-8F8A-15DA4D4AB0BB::net5.0::OblFootballPlayer.Tests.FootballPlayerTests.PriceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::6E304E04-7066-4574-8F8A-15DA4D4AB0BB::net5.0::OblFootballPlayer.Tests.FootballPlayerTests.ShirtNumberTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
